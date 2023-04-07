@@ -1,6 +1,4 @@
 # Mobile DEVELOPMENT for @COHORT 
-------------------------------------------------------------------
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Overview
 ------------------------------------------------------------------
@@ -10,6 +8,8 @@ This open source mobile development project aims to create a platform where indi
 ------------------------------------------------------------------
 
 ## Getting Started
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Development Guidelines
 Please follow these development guidelines while working on the mobile app:
